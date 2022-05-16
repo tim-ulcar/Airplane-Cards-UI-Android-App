@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Poleti Pro</string>
+    <string-array name="lokacije">
+        <item>Ljubljana</item>
+        <item>Berlin</item>
+        <item>Pariz</item>
+        <item>London</item>
+        <item>Rim</item>
+        <item>Madrid</item>
+        <item>Bruselj</item>
+        <item>Moskva</item>
+        <item>Zagreb</item>
+        <item>Beograd</item>
+    </string-array>
+</resources>
